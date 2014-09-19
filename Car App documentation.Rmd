@@ -1,0 +1,11 @@
+---
+title: "The Car Comparison App Documentation"
+author: "Wai-Wah Liu"
+date: "Friday, September 19, 2014"
+output: html_document
+---
+  
+  This document describes how The Car Comparison App works. Since it is a simple application not much guidance is needed.
+
+#### 1. Specifications
+The app uses the mtcars data set. First select whether you want to compare the automatic or manual transmission cars with the first radio buttons. Then decide if you want to compare high, medium or low fuel consuming cars by selecting the miles per gallon range with the double slider. Having made the selection the cars that fit those criteria are automatically updated in the plot. Next you can view different variables of the chosen cars with the drop down box. These variables are amount of cylinders, displacement, horse power, rear axle ratio, weight, quarter mile time, number of gears and number of carburetors.
